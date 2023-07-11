@@ -960,12 +960,13 @@ ul.outfit-child  .outfit-info  .outfit-name p {
     }
     
 
-    li:hover #myImage {
-      content: url('/assets/img/section/hoveranh1.webp');
-      transform: scale(1.1);
- }
- .hover-image {
-  content: url('/assets/img/section/hoveranh1.webp');
+  
+li:hover #myImage {
+  content: url("../img/section/hoveranh1.webp");
+  transform: scale(1.1);
+}
+.hover-image {
+  content: url("../img/section/hoveranh1.webp");
 }
 
 
