@@ -155,7 +155,10 @@ html {
 .img-bottom-header {
     width: 220px;
     height: 52px;
-    background: url('/assets/img/imgheader/anhlogo1.jpg') no-repeat  center / contain ;
+    
+}
+.img-bottom-header img {
+  width: 100%;
 }
 
 
